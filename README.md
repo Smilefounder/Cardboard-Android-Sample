@@ -1,4 +1,4 @@
-Google Cardboard
+Smileway Cardboard
 ================
 
-Please see <http://g.co/cardboard> for more information.
+Please see <http://cardboard.smileway.org/> for more information.
