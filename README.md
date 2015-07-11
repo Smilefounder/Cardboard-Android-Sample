@@ -1,4 +1,4 @@
 Cardboard
 ================
 
-Please see <http://cardboard.smileway.org/> for more information.
+Please see <http://cardboard.smileway.org/> Or <http://www.smilecardboard.com/> for more information.
